@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <h3 align="left">
-<a href="httng-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1000&random=true&width=750&height=30&lines=Java+Full-Stack+Developer;Passionate+about+building+scalable+and+efficient+applications;Currently+diving+into+AI+%26+Machine+Learning+;Open+for+work;Always+learning+and+innovating" alt="Typing SVG" /></a>
+<a href="httng-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&duration=2000&pause=1300&random=true&width=750&height=30&lines=Java+Full-Stack+Developer;Passionate+about+building+scalable+and+efficient+applications;Currently+diving+into+AI+%26+Machine+Learning+;Open+for+work;Always+learning+and+innovating" alt="Typing SVG" /></a>
 
 </h3>
 
